@@ -1,7 +1,7 @@
 # manufacturing.py
 # tuple = (batch_id, product_name, units_produced, defective_units, cost_per_unit)
 
-from manufacturing_utils import total_manu_cost, overall_defect_percent
+from manufacturing_utlis import total_manu_cost, overall_defect_percent
 
 production = [
     ("501", "Circuit Board", 100, 5, 250),
